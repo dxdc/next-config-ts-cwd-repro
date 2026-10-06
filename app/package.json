@@ -6,7 +6,7 @@
     "dev": "next dev"
   },
   "dependencies": {
-    "next": "16.4.0-canary.62",
+    "next": "^16.4.0-canary.63",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
